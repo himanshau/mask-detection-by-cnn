@@ -1,3 +1,5 @@
+**face mask detection model by cnn**
+
 Utilized the Kaggle API to download and extract a labeled face mask dataset in a Google Colab environment.
 
 Performed dataset preprocessing by separating images into "with_mask" and "without_mask" categories and labeling them accordingly.
